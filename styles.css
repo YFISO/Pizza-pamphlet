@@ -1,0 +1,31 @@
+img{width: 300px;
+
+}
+
+.size{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.header{
+    text-align: center;
+    background-color: darkblue;
+
+}
+.color-small{
+    background-color: goldenrod;
+}
+
+.color-large{
+    background-color: gold;
+}
+
+.color-medium{
+    background-color: greenyellow;
+}
+
+.DELIVARY{
+    text-align: right;
+    background-color: coral;
+}
